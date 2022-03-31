@@ -13,5 +13,5 @@
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... --->
 - 📫 How to reach me: abdullahmzahra@gmail.com
-- 😄 Pronouns: His/Him
+- 😄 Pronouns: He/Him
 <!---- ⚡ Fun fact: ... --->
