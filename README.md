@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdullahZahra](https://github.com/AbdullahZahra)
 
-- 📝 I regularly write articles on [https://abdullahzahra.blogspot.com/](https://abdullahzahra.blogspot.com/)
-
 - 📫 How to reach me **abdullahmzahra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
