@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-- 🌱 I’m currently learning **JavaScript**
 
 <p align="left">
 </p>
