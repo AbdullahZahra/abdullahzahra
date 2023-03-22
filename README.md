@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building new and amazing software.
-- 🌱 I’m currently learning HTML, CSS & JavaScript. 
-- 💬 Ask me about anything tech related.
+- 🔭 I’m currently working on Improving my skills as a software engineer.
+- 🌱 I’m currently learning NodeJS & ExpressJS. 
+- 💬 Ask me about backend frameworks and web itself.
 - 📫 How to reach me: [abdullahmzahra@gmail.com](mailto:abdullahmzahra@gmail.com) - [LinkedIn](https://www.linkedin.com/in/abdullahzahra/)
 
 [![abdullahzahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahzahra&show_icons=true&count_private=true&hide_title=true)](https://github.com/abdullahzahra/abdullahzahra)
