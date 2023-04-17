@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Improving my skills as a software engineer.
-- 🌱 I’m currently learning NodeJS & ExpressJS. 
+- 🔭 I’m currently working on Applying skills I learned on Node.js & Express.js.
+- 🌱 I’m currently learning Cloud Basics & AWS. 
 - 💬 Ask me about backend frameworks and web itself.
 - 📫 How to reach me: [abdullahmzahra@gmail.com](mailto:abdullahmzahra@gmail.com) - [LinkedIn](https://www.linkedin.com/in/abdullahzahra/)
 
