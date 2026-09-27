@@ -1,4 +1,6 @@
-<img src="https://streak-stats.demolab.com/?user=AbdullahZahra&theme=dark&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdullahZahra&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br>
 
